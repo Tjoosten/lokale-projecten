@@ -4,7 +4,7 @@
     <a href="gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br><br>
+<br>
 
 
 ## Over lokale projecten 
