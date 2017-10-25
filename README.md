@@ -5,7 +5,7 @@
 Een lijst met leuke intressante lokale IT projecten. Van personen en of groepen. 
 Deze projecten hebben we opgesplitst per gouw. Om het overzichtelijk te houden. 
 
-## Gouwen
+## Gouwen en hun projecten
 
 - [Gouw antwerpen](Gouwen/Antwerpen.md)
 - [Gouw Gent](Gouwen/Gent.md)
