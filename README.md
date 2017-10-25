@@ -1,5 +1,10 @@
 ![alt tag](Assets/Scouts-en-gidsen-vlaanderen.jpg)
 
+<p align="center">
+    <a href="gedragscode">Gedragscode</a>
+</p>
+
+
 ## Over lokale projecten 
 
 Een lijst met leuke intressante lokale IT projecten. Van personen en of groepen. 
