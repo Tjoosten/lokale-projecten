@@ -1,7 +1,7 @@
 ![alt tag](Assets/Scouts-en-gidsen-vlaanderen.jpg)
 
 <p align="center">
-    <a href="gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
+    <a href="Gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
