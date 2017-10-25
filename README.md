@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="Gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
+    <a href="Contributie.md">project toevoegen</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
