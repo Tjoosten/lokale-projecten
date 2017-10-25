@@ -1,8 +1,10 @@
 ![alt tag](Assets/Scouts-en-gidsen-vlaanderen.jpg)
 
 <p align="center">
-    <a href="gedragscode.md">Gedragscode</a>
+    <a href="gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
 </p>
+
+<br><br>
 
 
 ## Over lokale projecten 
