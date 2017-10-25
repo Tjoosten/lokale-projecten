@@ -1,4 +1,4 @@
-![alt tag](assets/scouts-en-gidsen-vlaanderen.jpg)
+![alt tag](Assets/Scouts-en-gidsen-vlaanderen.jpg)
 
 ## Over lokale projecten 
 
