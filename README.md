@@ -1,7 +1,6 @@
 ![alt tag](Assets/Scouts-en-gidsen-vlaanderen.jpg)
 
 <p align="center">
-    <a href="Gedragscode.md">Gedragscode</a>&nbsp;&nbsp;&nbsp;
     <a href="Contributie.md">Project toevoegen</a>&nbsp;&nbsp;&nbsp;
 </p>
 
