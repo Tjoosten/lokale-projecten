@@ -19,8 +19,11 @@ Deze projecten hebben we opgesplitst per gouw. Om het overzichtelijk te houden.
 | Scouts en Gidsen Vlaanderen | [Groepsadmin-client](https://github.com/ScoutsGidsenVL/groepsadmin-client) | 
 | Scouts en Gidsen Vlaanderen | [Keycloak thema](https://github.com/ScoutsGidsenVL/groepsadmin-keycloak-theme) |
 | Scouting Nederland | [WP-SOL (Plugin voor de openID server)](https://github.com/wp-plugins/wpsol) |
+| Martijn Donath | [Repo voor het KampInfo Joomla component voor de HIT van Scouting Nederland](https://github.com/mdonath/hit-joomla) |
+| Martijn Donath | [HIT app](https://github.com/mdonath/hit-app) |
 | Frederick Eskens | [Totem App](https://github.com/ScoutsGidsenVL/Totemapp) |
 | Tim Van Laer | [HO-Gids](https://github.com/ScoutsGidsenVL/ho-gids) | 
-| TIm Van Laer | [HO-Meta](https://github.com/timvlaer/ho-meta) | 
+| Tim Van Laer | [HO-Meta](https://github.com/timvlaer/ho-meta) | 
+| Mvdssel | [Ledenlijst GA](https://github.com/mvdssel/ledenlijst) | 
 | Bram Scheerder | [Font Scouts en Gidsen Vlaanderen](https://github.com/BramScheerder/FontScoutsEnGidsenVlaanderen) |
 | Joost Mul | [Souting nederland WordPress template](https://github.com/DonMul/scouting-nl-wordpress) |
