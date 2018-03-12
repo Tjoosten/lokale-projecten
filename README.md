@@ -25,4 +25,4 @@ Een lijst met leuke intressante lokale IT projecten. Van personen en of groepen 
 | Tim Van Laer | [HO-Meta](https://github.com/timvlaer/ho-meta) | 
 | Mvdssel | [Ledenlijst GA](https://github.com/mvdssel/ledenlijst) | 
 | Bram Scheerder | [Font Scouts en Gidsen Vlaanderen](https://github.com/BramScheerder/FontScoutsEnGidsenVlaanderen) |
-| Joost Mul | [Souting nederland WordPress template](https://github.com/DonMul/scouting-nl-wordpress) |
+| Joost Mul | [Scouting nederland WordPress template](https://github.com/DonMul/scouting-nl-wordpress) |
