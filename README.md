@@ -9,8 +9,7 @@
 
 ## Over lokale projecten 
 
-Een lijst met leuke intressante lokale IT projecten. Van personen en of groepen. 
-Deze projecten hebben we opgesplitst per gouw. Om het overzichtelijk te houden. 
+Een lijst met leuke intressante lokale IT projecten. Van personen en of groepen die rechtstraaks of onrechtstreeks betrokken zijn met scouting.
 
 ## Projecten 
 
